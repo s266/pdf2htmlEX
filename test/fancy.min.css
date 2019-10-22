@@ -1,4 +1,7 @@
 /* CSS for test cases */
 #page-container {
     overflow:hidden;
+    color:blue;
+    font-family: Goudy Stout;
+    font-size: 30px;
 }
